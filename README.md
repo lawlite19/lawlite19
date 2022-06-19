@@ -1,5 +1,3 @@
-<p align="center"><a href="https://lawlite.cn"><img width="80%" alt="Hello, I'm Lawlite. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 
