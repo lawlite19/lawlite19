@@ -23,7 +23,7 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lawlite19/MachineLearning_Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lawlite19&repo=MachineLearning_Python&theme=buefy" />
 </a>
 
